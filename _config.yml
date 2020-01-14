@@ -108,10 +108,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "작성자 테스트"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "저는 지금 연습용 페이지를 만들고 있습니다."
+  location         : "어딘가에요"
   email            :
   links:
     - label: "Email"
