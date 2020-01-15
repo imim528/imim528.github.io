@@ -258,7 +258,7 @@ category_archive:
   type: liquid
   # path: /categories/
   permalinks:
-    category: /:cartegories/
+    category: /:categories/
     tag: /:name/
 # tag_archive:
 #   type: liquid
