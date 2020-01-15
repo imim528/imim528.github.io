@@ -117,7 +117,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "Website"
+    - label: "회사 홈페이지"
       icon: "fas fa-fw fa-link"
       url: "http://smartparking.iparking.co.kr/"
     - label: "Twitter"
