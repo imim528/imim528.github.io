@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "R&D"
-    url: /rnd-archieve/
+    url: ../rnd-archieve/_posts/
   - title: "기술"
-    url: /skills-archieve/
+    url: ../skills-archieve/
   - title: "파킹이야기"
-    url: /parkingstory-archive/
+    url: ../parkingstory-archive/
   - title: "미분류"
-    url: /etc-archive/
+    url: ../etc-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
