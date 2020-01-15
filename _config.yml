@@ -256,11 +256,13 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  # path: /categories/
+  permalink: /:categories/
 
 tag_archive:
   type: liquid
-  path: /tags/
+  # path: /tags/
+  permalink: /:categories/
 
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
