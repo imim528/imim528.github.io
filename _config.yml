@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "파킹클라우드"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/simplelogo10.png"
   bio              : "주차의 모든것, 아이파킹"
   location         : "서울 영등포구 영등로포 3길 19"
   email            :
