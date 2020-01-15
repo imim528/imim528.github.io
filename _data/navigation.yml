@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "R&D"
-    url: /rnd/post/
+    url: /_pages/rnd/post/
   - title: "기술"
-    url: /skills/post/
+    url: /_pages/skills/post/
   - title: "파킹이야기"
-    url: /parkingstory/post/
+    url: /_pages/parkingstory/post/
   - title: "미분류"
-    url: /etc/post/
+    url: /_pages/etc/post/
