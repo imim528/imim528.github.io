@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "R&D"
-    url: /rnd/_posts/
+    url: /rnd/post/
   - title: "기술"
     url: /skills-archieve/
   - title: "파킹이야기"
