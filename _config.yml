@@ -257,12 +257,12 @@ whitelist:
 category_archive:
   type: liquid
   # path: /categories/
-  permalink: /:categories/
+  permalink: /:tags/post
 
 tag_archive:
   type: liquid
   # path: /tags/
-  permalink: /:categories/
+  permalink: /:tags/post
 
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
