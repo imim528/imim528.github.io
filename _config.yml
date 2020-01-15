@@ -64,8 +64,8 @@ staticman:
 reCaptcha:
   siteKey                :
   secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+# atom_feed:
+#   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -256,10 +256,8 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  # path: /categories/
-  permalinks:
-    category: /:categories/
-    tag: /:name/
+  path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
