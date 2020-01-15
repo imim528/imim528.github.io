@@ -260,9 +260,9 @@ category_archive:
   permalinks:
     category: /:categories/
     tag: /:name/
-# tag_archive:
-#   type: liquid
-#   path: /tags/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
