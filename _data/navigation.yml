@@ -3,10 +3,8 @@ main:
   - title: "R&D"
     url: /rnd/post/
   - title: "기술"
-    url: /skills-archieve/
+    url: /skills/post/
   - title: "파킹이야기"
-    url: /parkingstory-archive/
+    url: /parkingstory/post/
   - title: "미분류"
-    url: /etc-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /etc/post/
