@@ -2,6 +2,7 @@
 main:
   - title: "R&D"
     url: /_pages/rnd/post/
+    permalink: /rnd/
   - title: "기술"
     url: /_pages/skills/post/
   - title: "파킹이야기"
