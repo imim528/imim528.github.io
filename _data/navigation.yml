@@ -5,8 +5,8 @@ main:
   - title: "기술"
     url: /skills/post/
   - title: "파킹이야기"
-    url: /parkingstory/
+    url: /parkingstory/post/
   - title: "미분류"
-    url: /etc/
+    url: /etc/post/
   - title: "Categories"
     url: /categories/
