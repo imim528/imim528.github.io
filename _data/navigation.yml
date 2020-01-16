@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "R&D"
-    url: /_posts/rnd/
+    url: /rnd/post/
   - title: "기술"
-    url: /_posts/skills/
+    url: /skills/post/
   - title: "파킹이야기"
     url: /parkingstory/
   - title: "미분류"
