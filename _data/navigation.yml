@@ -8,5 +8,5 @@ main:
     url: /parkingstory/post/
   - title: "미분류"
     url: /etc/post/
-  - title: "Categories"
+  - title: "카테고리"
     url: /categories/
