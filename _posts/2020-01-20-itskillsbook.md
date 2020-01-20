@@ -1,4 +1,6 @@
 ---
+published: true
+layout: single
 title: "[책소개] IT에 몸담은 이들을 위한 지적생산기술"
 date: 2020-01-02 14:40:00
 category: etc
