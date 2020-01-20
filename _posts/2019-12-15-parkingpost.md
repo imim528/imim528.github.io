@@ -1,7 +1,7 @@
 ---
 title: "parkingstory000"
 date: 2019-12-15 08:26:28 -0400
-category: parkingstory
+category: 파킹이야기
 ---
 ### parking story
 ## parking
