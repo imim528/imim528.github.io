@@ -1,5 +1,5 @@
 ---
-title: "파킹이야기"
+title: "parkingstory"
 layout: category-parkingstory
 permalink: /parkingstory/
 author_profile: true
