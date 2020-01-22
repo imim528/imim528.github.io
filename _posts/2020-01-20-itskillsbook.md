@@ -3,6 +3,7 @@ title: "[책소개] IT에 몸담은 이들을 위한 지적생산기술"
 date: 2020-01-02 14:40:00
 category: etc
 author_profile: false
+breadcrumbs: false
 ---
 * 책제목: IT에 몸담은 이들을 위한 지적생산기술
 * 지은이: 니시오 히로카즈
