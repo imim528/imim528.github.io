@@ -8,5 +8,3 @@ main:
     url: /parkingstory/
   - title: "미분류"
     url: /etc/
-  - title: "카테고리"
-    url: /categories/
